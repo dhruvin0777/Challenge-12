@@ -9,14 +9,14 @@
     },
     "repository": {
       "type": "git",
-      "url": "  "
+      "url": "git+https://github.com/dhruvin0777/challenge-12.git"
     },
     "author": "Dhruvin Patel",
     "license": "MIT",
     "bugs": {
-      "url": " "
+      "url": "https://github.com/dhruvin0777/challenge-12/issues"
     },
-    "homepage": "  ",
+    "homepage": "https://github.com/dhruvin0777/challenge-12#readme",
     "dependencies": {
       "console.table": "^0.10.0",
       "dotenv": "^16.0.0",
